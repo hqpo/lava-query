@@ -8,10 +8,8 @@
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
     "url": "https://github.com/hqpo/lava-query.git"
   },
-=======
   "keywords": [],
   "author": "",
   "license": "ISC",
