@@ -1,5 +1,5 @@
 {
-  "name": "lava-query",
+  "name": "lava-query2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,8 +8,14 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< HEAD
     "url": "https://github.com/hqpo/lava-query.git"
   },
+=======
+    "url": "https://github.com/hqpo008/lava-query2.git"
+},
+
+>>>>>>> c3cfe718fe375dc101cb8a96790111efcdb74f34
   "keywords": [],
   "author": "",
   "license": "ISC",
